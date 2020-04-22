@@ -206,7 +206,7 @@ AZERTY_LAYOUT = [
         [{'lower':  'i', 'upper': 'I'},{'styles':['default']}],
         [{'lower':  'o', 'upper': 'O'},{'styles':['default']}],
         [{'lower':  'p', 'upper': 'P'},{'styles':['default']}],
-        [{'lower':  '.', 'upper': '.'},{'styles':['default']}],
+        [{'lower':  '.', 'upper': ‘;’},{‘styles':['default']}],
     ],
     [
 
